@@ -8,7 +8,7 @@ Create custom assets for your maps and mods using this "all-in-one" comprehensiv
 
 ### 🔎 How to Install
 
-1. Download `LogiTool Setup [version].exe` from the [releases page](https://github.com/chrisstvan98/LogiTools-Releases)
+1. Download `LogiTool Setup [version].exe` from the [releases page](https://github.com/chrisstvan98/LogiTools-Releases/releases)
 2. Run the installer and follow the setup wizard
 3. Launch LogiTool from your desktop or start menu
 4. Sign in with Discord to access tools
