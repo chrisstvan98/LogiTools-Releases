@@ -1,10 +1,11 @@
-# ⚡ LogiTool v0.1.5 Release
+# ⚡ LogiTools v0.1.5 Release
 
-**A Black Ops 3 Modding Suite** - Comprehensive tools for Call of Duty: Black Ops 3 modding
+**A Black Ops 3 Modding Suite**
+Create custom assets for your maps and mods using this "all-in-one" comprehensive modding tool suite. Tools include creating custom shields, perks, mystery boxes, and more. 
 
 ---
 
-### Installation Instructions
+### How to Install
 
 1. Download `LogiTool Setup [version].exe` from the [releases page](https://github.com/chrisstvan98/LogiTools-Releases)
 2. Run the installer and follow the setup wizard
@@ -14,13 +15,34 @@
 
 ---
 
-## 🆕 Tools
+## 🛠️ Included Tools
 
 ### PERKEO
 - Create custom Perks
 
-### CRAFTEO
+### CRAFTEO (WIP)
 - Create custom Craftables such as Shields, Weapons, and More!
+
+### WEAPEO (COMING SOON)
+- Create custom Weapons
+
+### QUESTEO (COMING SOON)
+- Create custom Quests
+
+### NUKEO (COMING SOON)
+- Create custom Powerups
+
+### PACKEO (COMING SOON)
+- Create custom Pack a Punches
+
+### BOXEO (COMING SOON)
+- Create custom Mystery Boxes
+
+### BOSSEO (COMING SOON)
+- Create custom AI
+
+### DRIVEO (COMING SOON)
+- Create custom Vehicels
 
 ---
 
@@ -32,29 +54,6 @@
 - **Discord Account:** Required for authentication
 
 ---
-
-## 🚀 Quick Start
-
-1. **Install** the application using the setup file
-2. **Launch** LogiTool from your desktop
-3. **Sign in** with your Discord account
-4. **Select** a tool from the main menu
-5. **Follow** the in-app instructions for each tool
-
----
-
-## 🛠️ Available Tools
-
-- **PERKEO** - Custom perk generator
-- **CRAFTEO** - Custom craftable system generator (WIP)
-- **NUKEO** - Custom powerup generator (Coming Soon)
-- **PACKEO** - Custom pack-a-punch generator (Coming Soon)
-- **BOSSEO** - Custom boss creator (Coming Soon)
-- **QUESTEO** - Quest system generator (Coming Soon)
-- **DRIVEO** - Drive management (Coming Soon)
-- **WEAPEO** - Weapon generator (Coming Soon)
-
-💎 **Premium Tools:** Some tools require a Discord supporter role. Join [DEVRAW Discord](https://discord.gg/devraw) and subscribe for access.
 
 ## 📞 Support
 
