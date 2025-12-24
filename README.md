@@ -6,7 +6,7 @@ Create custom assets for your maps and mods using this "all-in-one" comprehensiv
 
 ---
 
-### How to Install
+### 🔎 How to Install
 
 1. Download `LogiTool Setup [version].exe` from the [releases page](https://github.com/chrisstvan98/LogiTools-Releases)
 2. Run the installer and follow the setup wizard
@@ -18,56 +18,22 @@ Create custom assets for your maps and mods using this "all-in-one" comprehensiv
 
 ## 🛠️ Included Tools
 
-### PERKEO
-- Create custom Perks
-
-### CRAFTEO (WIP)
-- Create custom Craftables such as Shields, Weapons, and More!
-
-### WEAPEO (COMING SOON)
-- Create custom Weapons
-
-### QUESTEO (COMING SOON)
-- Create custom Quests
-
-### NUKEO (COMING SOON)
-- Create custom Powerups
-
-### PACKEO (COMING SOON)
-- Create custom Pack a Punches
-
-### BOXEO (COMING SOON)
-- Create custom Mystery Boxes
-
-### BOSSEO (COMING SOON)
-- Create custom AI
-
-### DRIVEO (COMING SOON)
-- Create custom Vehicels
+- **PERKEO** - Create custom Perks
+- **CRAFTEO** *(W.I.P.)* - Create custom Craftables such as Shields, Weapons, and More!
+- **WEAPEO** *(Coming Soon)* - Create custom Weapons
+- **QUESTEO** *(Coming Soon)* - Create custom Quests
+- **NUKEO** *(Coming Soon)* - Create custom Powerups
+- **PACKEO** *(Coming Soon)* - Create custom Pack a Punches
+- **BOXEO** *(Coming Soon)* - Create custom Mystery Boxes
+- **BOSSEO** *(Coming Soon)* - Create custom AI
+- **DRIVEO** *(Coming Soon)* - Create custom Vehicles
 
 ---
 
-## 📋 Requirements
-
-- **OS:** Windows 10/11 (64-bit)
-- **RAM:** 4GB minimum, 8GB recommended
-- **Disk Space:** 500MB free space
-- **Discord Account:** Required for authentication
-
----
-
-## 📞 Support
+## 🔌 Created by Logical
 
 - **Discord:** LogicalEdits
 - **YouTube:** [@LogicalEdits](https://www.youtube.com/@LogicalEdits)
 - **Twitter/X:** [@logicaledits](https://x.com/logicaledits)
-
-## 📄 License
-
-MIT License - See [LICENSE](https://github.com/chrisstvan98/LogiTools/blob/main/LICENSE) file
-
----
-
-**Made with ❤️ by LogicalEdits**
 
 ---
