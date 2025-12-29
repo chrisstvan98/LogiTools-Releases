@@ -1,4 +1,4 @@
-# ⚡ LogiTools v0.1.5 Release
+# ⚡ LogiTools
 
 **A Black Ops 3 Modding Suite**
 
