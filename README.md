@@ -18,15 +18,16 @@ Create custom assets for your maps and mods using this "all-in-one" comprehensiv
 
 ## 🛠️ Included Tools
 
-- **PERKEO** - Create custom Perks
-- **CRAFTEO** *(W.I.P.)* - Create custom Craftables such as Shields, Weapons, and More!
-- **WEAPEO** *(Coming Soon)* - Create custom Weapons
-- **QUESTEO** *(Coming Soon)* - Create custom Quests
-- **NUKEO** *(Coming Soon)* - Create custom Powerups
-- **PACKEO** *(Coming Soon)* - Create custom Pack a Punches
-- **BOXEO** *(Coming Soon)* - Create custom Mystery Boxes
-- **BOSSEO** *(Coming Soon)* - Create custom AI
-- **DRIVEO** *(Coming Soon)* - Create custom Vehicles
+- **PERKEO** - Create custom Perks!
+- **CRAFTEO** *(W.I.P.)* - Create custom Craftable Shields and Craftable Weapons!
+- **BOXEO** *(W.I.P.)* - Create custom Mystery Boxes!
+- 
+- **WEAPEO** *(Coming Soon)* - Create custom Weapons!
+- **QUESTEO** *(Coming Soon)* - Create custom Quests!
+- **NUKEO** *(Coming Soon)* - Create custom Powerups!
+- **PACKEO** *(Coming Soon)* - Create custom Pack a Punches!
+- **BOSSEO** *(Coming Soon)* - Create custom AI!
+- **DRIVEO** *(Coming Soon)* - Create custom Vehicles!
 
 ---
 
